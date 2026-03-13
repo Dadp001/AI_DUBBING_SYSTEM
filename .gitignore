@@ -1,5 +1,6 @@
-.venv/
 venv/
+venv311/
+.venv/
 __pycache__/
 *.pyc
 *.pkl
