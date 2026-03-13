@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.pth
+*.wav
+*.mp4
+data/
